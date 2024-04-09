@@ -21,7 +21,6 @@ Dialogue summarization is accomplished through instruction prompts on Language M
 
 I have used FLAN T5  LLM from hugging face in this project. The dataset used is from hugging face called DialogSum (https://huggingface.co/datasets/knkarthick/dialogsum)
 
-
 First step, Install and import all the necessary libraries such as transformers etc. 
  
 Displaying few examples from the data set having the summaries.
@@ -80,7 +79,7 @@ In this article, I have covered the different types of prompt engineering techni
 
 
 ## Reference : 
-Generative AI with LLMs by Courseera, Deeplearning.AI
+Generative AI with LLMs , Deeplearning.AI
 
 
 
