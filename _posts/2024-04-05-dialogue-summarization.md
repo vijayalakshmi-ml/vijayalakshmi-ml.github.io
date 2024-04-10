@@ -3,7 +3,7 @@ title: Dialogue summarization using zero shot, one shot and few shot inferences
 date: 2024-02-10 20:14 +0300
 categories: [Projects, LLMs]
 tags: [LLM, PEFT, one shot, zero shot, few shot]
-author: Vijayalakshmi
+author: tremo
 ---
 
 ## Dialogue Summarization using LLMs
