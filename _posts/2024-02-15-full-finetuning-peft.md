@@ -1,6 +1,6 @@
 ---
 title: Full fine-tuning & PEFT techniques with LLMs
-date: 2024-02-15 20:14 +0300
+date: 2024-02-09 20:14 +0300
 categories: [Projects, LLMs]
 tags: [LLM, PEFT, full fine-tuning, T5, LoRA]
 author: vijayalakshmi
@@ -8,6 +8,14 @@ author: vijayalakshmi
 
 ## Dialogue summarization using full fine-tuning & PEFT techniques with LLMs
 
+This is my first blog. (Yay!)
+I'm jumping on the bandwagon to kickstart a series of blog articles all about ML and share my learnings with you.
+Not only this is my first blog but also I have created my first meme (below) :)
+
+![Template Blog](assets/img/posts/2024-02-15-full-finetuning-peft/meme.jpeg){: width="600"}
+
+
+Let's get started.
 In this blog I have explained the process of full fine-tuning and using PEFT techniques on LLMs. I have used FLAN-T5 model to perform dialogue summarization. I have evaluated the performance and compared the results using both full fine-tuning and PEFT.
 
 
@@ -96,7 +104,8 @@ Even though peft model scores are slightly lower than full fine tuned model scor
 
 ## Conclusion : 
 
-I have explained how to perform full fine tuning using LLMs  and also have explained  the steps involved to perform PEFT with LLMs. The results of the ROUGE metrics show that even though PEFT has a slightly lower performance, the benefits of using PEFT outweighs full fine tuning because of usage of less computational resources and time.    
+I have explained how to perform full fine tuning using LLMs  and also have explained  the steps involved to perform PEFT with LLMs. The results of the ROUGE metrics show that even though PEFT has a slightly lower performance, the benefits of using PEFT outweighs full fine tuning because of usage of less computational resources and time.
+The full colab can be found here [colab notebook](https://github.com/vijayalakshmi-ml/LLM_Projects/blob/main/Comparison%20of%20Full%20Finetuning%20%26%20PEFT%20on%20LLM.ipynb)
 
 
 ## Reference : 
