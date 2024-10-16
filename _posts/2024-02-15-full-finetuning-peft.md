@@ -3,7 +3,6 @@ title: Full fine-tuning & PEFT techniques with LLMs
 date: 2024-02-09 20:14 +0300
 categories: [Projects, LLMs]
 tags: [LLM, PEFT, full fine-tuning, T5, LoRA]
-author: vijayalakshmi
 ---
 
 ## Dialogue summarization using full fine-tuning & PEFT techniques with LLMs
