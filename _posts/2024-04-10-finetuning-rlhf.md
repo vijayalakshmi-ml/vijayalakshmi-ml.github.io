@@ -9,6 +9,22 @@ tags: [LLM, PEFT, RLHF, PPO, Optimization]
 
 In this blog, I have discussed how to fine-tune LLM to generate less toxic content with Meta AI's hate speech reward model. The reward model is a binary classifier that predicts either "not hate" or "hate" for the given text. I have used Proximal Policy Optimization (PPO) to fine-tune and reduce the model's toxicity.
 
+### What is reinforcement learning and how does it work ?
+
+Reinforcement Learning (RL) - an **agent** learns to make decisions related to a specific goal by taking actions in an **environment**, with the objective of maximising **rewards**.
+
+In this framework, the agent continually learns from its experiences by taking actions, observing the resulting changes in the environment, and receiving rewards or penalties, based on the outcomes of its actions. By iterating through this process, the agent gradually refines its strategy or policy to make better decisions and increase its chances of success.
+
+### RLHF - Reinforcement Learning with Human Feedback
+
+Using reinforcement learning to finetune the LLM with human feedback data, resulting in a model that is better aligned with human preferences. This is done to prevent the model from giving toxic replies, harmful replies etc.
+The resulting model is called **Human aligned LLM.**
+
+
+![Template Blog](assets/img/posts/2024-05-10-finetuning-rlhf/rlhf0.jpg){: width="700"}
+
+<small> Image source : Generative AI with LLMs by Courseera </small>
+
 ## Load the model and dataset
 
 First step is to install and import all the necessary libraries such as transformers, datasets, torch etc. Then load the Flan T5 model and the dataset.
