@@ -35,11 +35,13 @@ Thesis - A Parameter-Efficient Framework for Word Sense Disambiguation through L
 
 **Publications (First author)**
 
-1. Vijayalakshmi Manikandan, Dunwei Wen, M. Ali Akber Dewan (2026). “GlossAdapter: Enhancing word sense disambiguation via LoRA adapters.” Proceedings of the Canadian Conference on Artificial Intelligence. 
-Link - [CANAI Link to paper](https://www.caiac.ca/en/conferences/canadianai-2026/program#:~:text=Vijayalakshmi) 
+1. Vijayalakshmi Manikandan, Dunwei Wen, M. Ali Akber Dewan. GlossAdapter: Enhancing word sense
+disambiguation via LoRA adapters. Proceedings of the 39th Canadian Conference on Artificial
+Intelligence, PMLR 318:1044-1051, 2026. Link - [Link to paper]( https://proceedings.mlr.press/v318/manikandan26a.html)
 
-2. Vijayalakshmi Manikandan, Dunwei Wen, M. Ali Akber Dewan (2026). “Parameter-Efficient Multi-Task Learning for Biomedical Abbreviation Disambiguation” .   
-Link: [https://aiih.cc/](https://aiih.cc/)  
-Got accepted at the International Conference on AI in Healthcare. AIiH 2026 (Following the conference on August 28, 2026, the proceedings will be officially published in Springer Nature.)
+2. Manikandan, V., Wen, D., Dewan, M.A.A. (2027). Parameter-Efficient Multi-task Learning for
+Biomedical Abbreviation Disambiguation. In: Ni, H., Cafolla, D. (eds) Artificial Intelligence in
+Healthcare. AIiH 2026. Lecture Notes in Computer Science, vol 16875. Springer, Cham. Link - [Link to paper](https://link.springer.com/chapter/10.1007/978-3-032-35387-0_12)
+
 
 On my blog, you'll find a collection of articles exploring the fascinating realms of AI and ML. My mission is simple: to share my ML journey, from experiments and coding adventures to valuable insights and learnings. Join me as we dive deep into the world of machine learning together!
